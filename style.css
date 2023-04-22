@@ -1,0 +1,364 @@
+*{
+    margin: 0;
+    background: #1E1E1E;
+}
+
+.navbar{
+    position: sticky;
+    width: 1728px;
+    width: 100%;
+    height: 86px;
+    left: 0px;
+    top: 0px;
+    background: #FCAF02;
+
+}
+
+.navbar #logo{
+    position: absolute;
+    width: 127px;
+    height: 39px;
+    left: 58px;
+    top: 24px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+
+.navbar .link{
+    position: relative;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    text-decoration: none;
+    color: #000000;
+
+}
+
+.navbar #Home{
+    position: absolute;
+    width: 87px;
+    height: 34px;
+    left: 1048px;
+    top: 26px;
+    
+}
+.navbar #About{
+    position: absolute;
+    width: 130px;
+    height: 34px;
+    left: 1185px;
+    top: 26px;
+}
+.navbar #Contact{
+    position: absolute;
+    width: 155px;
+    height: 34px;
+    left: 1365px;
+    top: 26px;
+}
+.navbar #Login{
+    position: absolute;
+    width: 80px;
+    height: 34px;
+    left: 1570px;
+    top: 26px;
+}
+
+.intro{
+
+}
+#startup{
+    position: absolute;
+    width: 736px;
+    height: 78px;
+    left: 58px;
+    top: 174px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 78px;
+    /* identical to box height */
+
+    color: #FFFFFF; 
+}
+#para{
+    position: absolute;
+    width: 917px;
+    height: 238px;
+    left: 63px;
+    top: 285px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+
+    color: #FFFFFF;
+
+}
+.login{
+    position: absolute;
+    width: 95px;
+    height: 39px;
+    left: 177px;
+    top: 587px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+    color: #000000;   
+}
+#btn{
+    position: absolute;
+    width: 323px;
+    height: 66px;
+    left: 63px;
+    top: 573px;
+    
+    background: #FCAF02;
+    border-radius: 500px;
+}
+#jeff{
+    position: absolute;
+    width: 697px;
+    height: 482px;
+    left: 981px;
+    top: 173px;
+    
+    background: url(jeff.jpg);
+}
+
+#contactHeading{
+    position: absolute;
+    width: 369px;
+    height: 78px;
+    left: 63px;
+    top: 771px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 78px;
+    /* identical to box height */
+    
+    
+    color: #FCAF02;
+    
+}
+
+#name{
+    position: absolute;
+    width: 917px;
+    height: 34px;
+    left: 121px;
+    top: 937px;
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1570px;
+    height: 82px;
+    left: 63px;
+    top: 913px;
+    
+    border: 2px solid #FCAF02;
+    border-radius: 100px;
+
+    padding: 24px 595px 24px 58px;
+
+}
+#email{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1570px;
+    height: 82px;
+    left: 63px;
+    top: 1045px;
+    
+    border: 2px solid #FCAF02;
+    border-radius: 100px; 
+    padding: 24px 595px 24px 58px;  
+}
+#tel{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 730px;
+    height: 82px;
+    left: 63px;
+    top: 1177px;
+    
+    border: 2px solid #FCAF02;
+    border-radius: 100px; 
+    padding: 24px 245.62px 24px 58px;
+}
+#city{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 767px;
+    height: 82px;
+    left: 866px;
+    top: 1177px;
+    
+    border: 2px solid #FCAF02;
+    border-radius: 100px;  
+    padding: 24px 258.07px 24px 60.94px;
+}
+#submit{
+    position: absolute;
+    width: 219px;
+    height: 39px;
+    left: 738px;
+    top: 1347px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 325px;
+    height: 82px;
+    left: 685px;
+    top: 1326px;
+    
+    background: #FCAF02;
+    border: 2px solid #FCAF02;
+    border-radius: 100px;
+    padding: 21px 53px 22px 53px;
+}
+input{
+    position: absolute;
+ 
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+
+    color: #FCAF02;
+    background: #1E1E1E;;
+}
+input:focus-within{
+    outline: none;
+}
+
+table {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1582px;
+    height: 755px;
+    left: 75px;
+    top: 1524px;
+    bottom: 120px ;
+    border: 2px solid #FCAF02;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    align-content: center;
+    color: #FCAF02;
+    padding: 25px;
+    
+}
+
+th {
+    position: initial;
+    width: 69px;
+    height: 34px;
+    left: 112px;
+    top: 1554px;
+}
+
+#th2
+#th3
+#hline{
+    position: absolute;
+    width: 1577px;
+    height: 0px;
+    left: 77px;
+    top: 1623px;
+    
+    border: 2px solid #FCAF02;
+}
+
+.tbody{
+    box-sizing: border-box;
+    height: 500px;
+    padding: 20px;
+}
+#t00{
+    position: initial;
+    width: 42px;
+    height: 34px;
+    left: 125px;
+    top: 1673px;   
+}
+.tfoot{
+    position: absolute;
+    width: 1582px;
+    height: 91px;
+    left: 75px;
+    top: 2188px;
+    
+    background: #FCAF02;
+}
+
+#f1{
+    position:initial;
+    width: 43px;
+    height: 34px;
+    left: 125px;
+    top: px;    
+    bottom: 153px;
+    color: #000000;
+
+}
+#f2{
+    position: initial;
+    width: 167px;
+    height: 34px;
+    left: 290px;
+    top: 2212px;
+    color: #000000;    
+}
+#f3{
+    position: initial;
+    width: 272px;
+    height: 34px;
+    left: 768px;
+    top: 2212px;
+    color: #000000;  
+}
